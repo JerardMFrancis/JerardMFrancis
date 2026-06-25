@@ -9,10 +9,11 @@
 I'm passionate about solving real-world problems using Data Analytics, Machine Learning, SQL, and Python.
 
 Currently learning:
-- Machine Learning
-- Power BI
-- Deep Learning
 - Data Engineering
+- ETL Pipelines
+- Power Query & DAX (Power BI)
+- NLP
+- Deep Learning
 
 Open to:
 - Data Analyst Internship
