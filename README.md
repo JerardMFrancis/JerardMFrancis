@@ -42,6 +42,53 @@ Open to:
 </p>
 
 
+## 🚀 Featured Projects
+
+### 📈 Inventory Demand Forecasting
+Developed a machine learning and time-series forecasting solution to predict future inventory demand using historical retail sales data. Performed data preprocessing, exploratory data analysis (EDA), feature engineering, and forecasting to support inventory optimization.
+
+**Tech Stack:** Python, Pandas, NumPy, Scikit-learn, PostgreSQL, ARIMA
+
+🔗 Repository: https://github.com/JerardMFrancis/Inventory-Demand-Forecasting
+
+---
+
+### 🚌 College Bus Tracking & Management System
+Designed and implemented an Oracle PL/SQL-based transport management system to manage buses, routes, student transport passes, fee calculation, and transport logs with automated database operations.
+
+**Tech Stack:** Oracle SQL, PL/SQL
+
+🔗 Repository: https://github.com/JerardMFrancis/College-Bus-Tracking-and-Management-System
+
+---
+
+### 📱 Mobile Device Usage & User Behavior Analysis
+Analyzed mobile device usage patterns through data preprocessing and exploratory data analysis to uncover insights on screen time, app usage, customer behavior, and user segmentation.
+
+**Tech Stack:** Python, Pandas, NumPy, Matplotlib, Tableau
+
+🔗 Repository: https://github.com/JerardMFrancis/Mobile-Device-Usage-and-User-Behavior-EDA
+
+---
+
+### 🚲 Ola Bike Ride Demand Forecasting
+Built a machine learning model using Random Forest Regression to forecast bike rental demand. Applied data preprocessing, feature engineering, and model evaluation to improve prediction accuracy.
+
+**Tech Stack:** Python, Pandas, Scikit-learn, Matplotlib
+
+🔗 Repository: https://github.com/JerardMFrancis/Ola-Bike-Ride-Demand-Forecasting-Using-Machine-Learning
 
 
 
+## 🏆 Achievements & Certifications
+
+
+💼 **Data Science Intern** – Unified Mentor
+
+🤖 **AICTE × VOIS for Tech Virtual Internship**
+
+🎓 **Google Data Analytics Professional Certificate**  
+Google × Coursera  
+🔗 **Credential:** https://www.coursera.org/account/accomplishments/professional-cert/QZCF8R8CYSEA
+- 🎓 **B.Tech Computer Science Engineering (Data Science & Machine Learning)**  
+  Lovely Professional University (LPU)
