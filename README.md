@@ -90,5 +90,29 @@ Built a machine learning model using Random Forest Regression to forecast bike r
 🎓 **Google Data Analytics Professional Certificate**  
 Google × Coursera  
 🔗 **Credential:** https://www.coursera.org/account/accomplishments/professional-cert/QZCF8R8CYSEA
-- 🎓 **B.Tech Computer Science Engineering (Data Science & Machine Learning)**  
-  Lovely Professional University (LPU)
+
+## 📫 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/jerard-m-francis/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="mailto:jerardfrancis59@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/JerardMFrancis" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<a href="https://your-portfolio-link.com" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+
+<a href="https://drive.google.com/file/d/1cgNXNUrrW85wiAQ0n4buGBPh4uCJYMr4/view?usp=sharing" target="_blank">
+  <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" />
+</a>
+
+
