@@ -41,4 +41,6 @@ Open to:
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Hi+I'm+Jerard+M+Francis;Data+Science+Student;Python+%7C+SQL+%7C+Machine+Learning;Open+to+Internships)](https://git.io/typing-svg)
 
+## 🐍 Contribution Graph
 
+![Snake animation](https://raw.githubusercontent.com/JerardMFrancis/JerardMFrancis/output/github-contribution-grid-snake.svg)
