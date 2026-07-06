@@ -56,16 +56,13 @@ Open to:
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JerardMFrancis&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JerardMFrancis&layout=compact&theme=github_dark&hide_border=true" width="48%" />
-</p>
+
 
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=JerardMFrancis&theme=github-dark&hide_border=true" width="60%" />
+  <img src="https://github-readme-stats-rho-dun-49.vercel.app/api?username=JerardMFrancis&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats-rho-dun-49.vercel.app/api/top-langs/?username=JerardMFrancis&layout=compact&theme=github_dark&hide_border=true" width="48%" />
 </p>
-
 
 ## 🚀 Featured Projects
 
@@ -141,3 +138,8 @@ Google × Coursera
 </a>
 
 
+
+<p align="center">
+  <img src="https://github-readme-stats-rho-dun-49.vercel.app/api?username=JerardMFrancis&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats-rho-dun-49.vercel.app/api/top-langs/?username=JerardMFrancis&layout=compact&theme=github_dark&hide_border=true" width="48%" />
+</p>
