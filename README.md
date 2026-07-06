@@ -137,9 +137,3 @@ Google × Coursera
   <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" />
 </a>
 
-
-
-<p align="center">
-  <img src="https://github-readme-stats-rho-dun-49.vercel.app/api?username=JerardMFrancis&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats-rho-dun-49.vercel.app/api/top-langs/?username=JerardMFrancis&layout=compact&theme=github_dark&hide_border=true" width="48%" />
-</p>
